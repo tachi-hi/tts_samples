@@ -7,10 +7,6 @@ title: Demo page of Our TTS
 
 This is a demo page of our paper __Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks With Guided Attention__, submitted to ICASSP 2018.
 
-<<<<<<< HEAD:readme.md
-- [Link to the Demo Page](https://tachi-hi.github.io/tts_samples/)
-=======
-
 # Samples
 ## Long Sentences
 
@@ -19,4 +15,3 @@ This is a demo page of our paper __Efficiently Trainable Text-to-Speech System B
 ## Some samples used in our experiments (from Harvard List 1 and 2)
 
 - [Harvard 1-1](https://s3-ap-northeast-1.amazonaws.com/crowdsrc-exp-data-a/experiment2017oct/data/104.wav) (proposed method, 15 hour training)
->>>>>>> c71b6b6f7a447c90476aab1cd09dda6f37c56633:index.md
