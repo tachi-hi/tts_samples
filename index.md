@@ -11,7 +11,7 @@ This is a demo page of our paper __Efficiently Trainable Text-to-Speech System B
 # Samples
 ## Long Sentences
 
-- _icassp stands for the international conference on acoustics, speech and signal processing._　[Link to Audio](https://github.com/tachi-hi/tts_samples/blob/master/audio/synth_icassp_15h.wav) (15 hours training)
+- _icassp stands for the international conference on acoustics, speech and signal processing._　[Link to Audio](https://github.com/tachi-hi/tts_samples/blob/master/audio/synth_icassp_15h.wav) (15 hours training) [mp3](https://github.com/tachi-hi/tts_samples/blob/master/audio/synth_icassp_mp3.wav)
 
 ## Some samples used in our experiments (from Harvard List 1 and 2)
 
