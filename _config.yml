@@ -1,0 +1,8 @@
+include:
+    - "**.md"
+exclude:
+    - "makefile"
+    - "readme.md"
+plugins:
+    - jemoji
+highlighter: rouge

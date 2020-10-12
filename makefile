@@ -1,4 +1,3 @@
 all:
-	rm index.html
+	rm -rf _site
 	jekyll build
-	cp _site/index.html .
