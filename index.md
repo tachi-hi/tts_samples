@@ -1,11 +1,27 @@
 ---
 layout: layout
-title: Demo page of Our TTS
+title: Demo page of an efficiently trainable TTS
 ---
 
-# Demo page of Our TTS
+# Demo page of an efficiently trainable TTS
 
-This is a demo page of our paper __"Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks With Guided Attention"__, submitted to ICASSP 2018.
+- This is a demo page of the paper
+__"Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks With Guided Attention"__, ICASSP 2018.
+- Paper available at
+  - [IEEE Xplore](https://doi.org/10.1109/ICASSP.2018.8461829)
+  - [arXiv](https://arxiv.org/abs/1710.08969)
+
+```bibtex
+@inproceedings{tachibana2018efficiently,
+   author={Tachibana, H. and Uenoyama, K. and Aihara, S.},
+   title={Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention},
+   booktitle={2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+   publisher={IEEE},
+   month={Apr},
+   year={2018},
+   DOI={10.1109/icassp.2018.8461829}
+}
+```
 
 # Samples
 ## Long Sentences
