@@ -164,8 +164,3 @@ Note: This famous quote is not included in the training data.
 | 7 hours  | <audio src="audio/7h/synth_shakespear_7h.wav" controls></audio> |
 | 15 hours | <audio src="audio/15h/synth_shakespear_15h.wav" controls></audio> |
 | 40 hours | <audio src="audio/40h/synth_shakespear_40h.wav" controls></audio> |
-
-
-## Samples used in our crowdsourcing-based experiment (from Harvard Sentences List 1 and 2)
-
-- [Harvard 1-1](https://s3-ap-northeast-1.amazonaws.com/crowdsrc-exp-data-a/experiment2017oct/data/104.wav) (proposed method, 15 hour training)
